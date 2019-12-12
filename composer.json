@@ -1,6 +1,22 @@
 {
-	"minimum-stability": "dev",
-    "name": "nightbiribidzhann/zxc",
-	"license": "LGPL-3.0-or-later"
-
+  "minimum-stability": "dev",
+  "name": "nightbiribidzhann/zxc",
+  "description": "zxc",
+  "license": "LGPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "NiaDaraken",
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "zxc": "",
+      "zxc\\view": "view",
+      "zxc\\core": "core",
+	  "zxc\\plugins":"plugins"
+    }
+  }
 }
