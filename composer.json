@@ -14,9 +14,6 @@
   "autoload": {
     "psr-0": {
       "zxc": "",
-      "zxc\\view": "view",
-      "zxc\\core": "core",
-	  "zxc\\plugins":"plugins"
     }
   }
 }
