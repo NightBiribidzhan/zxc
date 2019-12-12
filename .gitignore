@@ -1,0 +1,4 @@
+composer.bat
+composer.phar
+/vendor/
+composer
