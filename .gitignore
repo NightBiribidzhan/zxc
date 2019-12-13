@@ -2,3 +2,6 @@ composer.bat
 composer.phar
 /vendor/
 composer
+test.php
+indextest.php
+composer-setup.php
