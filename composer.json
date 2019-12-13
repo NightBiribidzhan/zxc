@@ -18,8 +18,8 @@
             },
             "type": "library",
             "autoload": {
-                "psr-0": {
-                    "trpo-core": ""
+                "psr-4": {
+                    "trpo-core\\": ""
                 }
             },
             "license": [
